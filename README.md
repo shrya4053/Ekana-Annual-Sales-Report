@@ -28,8 +28,18 @@ To take out a detailed analysis of its historical sales and operational data fro
 - Merged all pivot tables into one dashboard and applied slicer to make it dynamic.
 
 ## Dashboard
-![Uploading Screenshot 2025-11-30 154234.png…]()
+<img width="1001" height="383" alt="Screenshot 2025-11-30 154234" src="https://github.com/user-attachments/assets/3abaeadc-7f15-4a3a-a8de-e82671ac2d5b" />
 
 ## Project Insight
+- Sales peaked during March–May, showing strong seasonal demand. After July, there was a gradual decline, indicating reduced post-summer activity.
+- Women account for 64% of total sales, showing they are the dominant customer base. Men represent 36%, suggesting targeted marketing could help boost engagement among male buyers.
+- 92% of orders were successfully delivered — indicating high fulfillment efficiency. Only a small portion (8%) faced cancellations, returns, or refunds, suggesting strong product satisfaction.
+- Maharashtra, Karnataka, and Uttar Pradesh lead in total sales. These three states together contribute over half of total revenue, showing strong regional performance.
+- Adult women form the largest sales group (55%), followed by men in the same category (24%). Teen and senior customer segments remain minimal — indicating untapped potential for targeted campaigns.
+- Amazon (35%) drives the highest sales, followed by Flipkart (22%) and Myntra (23%). Expanding on Myntra and Flipkart can diversify dependency on Amazon.											
 
-## Project
+## Conclusion
+- The company shows strong delivery performance and female-dominated buying trends.
+- Maharashtra remains the key market, while Amazon is the top sales channel.
+- There’s opportunity to grow male, teen, and senior customer segments and to balance sales across online platforms.											
+<img width="792" height="910" alt="image" src="https://github.com/user-attachments/assets/4d93cba1-7496-44fb-b9fe-350b9f8e2dcd" />
