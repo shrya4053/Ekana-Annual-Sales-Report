@@ -41,5 +41,12 @@ To take out a detailed analysis of its historical sales and operational data fro
 ## Conclusion
 - The company shows strong delivery performance and female-dominated buying trends.
 - Maharashtra remains the key market, while Amazon is the top sales channel.
-- There’s opportunity to grow male, teen, and senior customer segments and to balance sales across online platforms.											
-<img width="792" height="910" alt="image" src="https://github.com/user-attachments/assets/4d93cba1-7496-44fb-b9fe-350b9f8e2dcd" />
+- There’s opportunity to grow male, teen, and senior customer segments and to balance sales across online platforms.
+
+## Recommended Actions
+- Launch mid and year-end promotions (Aug–Nov) to re-engage customers during the dip.
+- Introduce loyalty programs or women-centric collections to strengthen brand retention.
+- Focus marketing spend on top-performing platforms (Amazon, Myntra, Flipkart) while exploring growth on Ajio and Meesho.
+- Open targeted ad campaigns in high-performing states (Maharashtra, Karnataka) and expand awareness in low-performing regions.
+- Analyze product categories with the highest return rate and improve quality or descriptions.
+- Promote trend-based products to adults and comfort/luxury items to senior citizens.												
