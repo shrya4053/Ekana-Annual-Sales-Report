@@ -1,2 +1,7 @@
 # Ekana-Annual-Sales-Report
-Ekana Store is a clothing retail business that aims to understand its overall growth, customer preferences, and product demand trends through data-driven insights. This project focuses on analyzing the store’s sales data collected over the past few years to evaluate performance, highlight improvement areas, and support future expansion planning.
+This project analyzes past sales data of Ekana Clothing Store to evaluate overall performance, customer demand, and product trends. The goal is to identify what sells best, where improvements are needed, and which cities show the highest potential for expansion.
+
+## Project Objective
+To take out a detailed analysis of its historical sales and operational data from the past few years. The goal of this analysis is to derive meaningful insights about overall business performance, identify areas that require improvement, and understand product-wise and region-wise demand trends. Based on these insights, the store aims to strategically expand into new cities where there is high demand and growth potential.
+
+## Dataset Used
