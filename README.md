@@ -17,7 +17,7 @@ To take out a detailed analysis of its historical sales and operational data fro
 - Which sales channel has the lowest contribution to overall performance?
 - How do sales trends vary month-wise when filtering by channel or category?
 
-##Dashboard Interaction
+## Dashboard Interaction
 <a href="https://github.com/shrya4053/Ekana-Annual-Sales-Report/blob/main/Screenshot%202025-11-30%20154234.png" View Dashboard</a>
 
 ## Process
