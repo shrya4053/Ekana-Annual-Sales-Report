@@ -36,7 +36,14 @@ To take out a detailed analysis of its historical sales and operational data fro
 - 92% of orders were successfully delivered — indicating high fulfillment efficiency. Only a small portion (8%) faced cancellations, returns, or refunds, suggesting strong product satisfaction.
 - Maharashtra, Karnataka, and Uttar Pradesh lead in total sales. These three states together contribute over half of total revenue, showing strong regional performance.
 - Adult women form the largest sales group (55%), followed by men in the same category (24%). Teen and senior customer segments remain minimal — indicating untapped potential for targeted campaigns.
-- Amazon (35%) drives the highest sales, followed by Flipkart (22%) and Myntra (23%). Expanding on Myntra and Flipkart can diversify dependency on Amazon.											
+- Amazon (35%) drives the highest sales, followed by Flipkart (22%) and Myntra (23%). Expanding on Myntra and Flipkart can diversify dependency on Amazon.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning & Validation
+- Data Visualization
+- GenAI for Insight Generation     				
 
 ## Conclusion
 - The company shows strong delivery performance and female-dominated buying trends.
